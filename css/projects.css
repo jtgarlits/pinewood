@@ -1,0 +1,15 @@
+#projects {
+
+    background-color: var(--green);
+    padding: 50px;
+
+}
+
+#projects h1 {
+
+    color: white;
+    margin-bottom: 30px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+
+}

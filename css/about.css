@@ -1,0 +1,25 @@
+#about {
+
+    background-color: var(--white);
+    color: var(--blue);
+    margin: 0;
+    padding: 50px;
+    
+
+}
+
+#about h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 45px;
+}
+
+#about a {
+    color: var(--blue);
+}
+
+#about img {
+
+    max-width: 25vw;
+    max-height: 50vh;
+
+}

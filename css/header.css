@@ -1,0 +1,6 @@
+.jumbotron {
+    background-color: var(--blue);
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    margin-bottom: 5px;
+}

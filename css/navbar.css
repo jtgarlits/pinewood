@@ -1,0 +1,13 @@
+.navbar-brand img{
+    height: 40px;
+}
+
+.navbar {
+    background-color: var(--blue);
+}
+
+.navbar a {
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 25px;
+}
