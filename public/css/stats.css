@@ -1,0 +1,45 @@
+.container {
+
+    font-size: large;
+    padding-top: 20px;
+
+}
+
+.row  {
+
+    border: 0px solid var(--blue);
+}
+
+.col {
+
+    border: 1px solid black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.container h1{
+
+    text-align: center;
+    padding-top: 30px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 50px;
+
+}
+
+.finish {
+
+    font-weight: bold;
+
+}
+
+.spacer {
+    margin-bottom: 10px;
+}
+
+#stats {
+
+    border: 5px solid var(--blue);
+    padding: 50px;
+    border-radius: 15%;
+
+}

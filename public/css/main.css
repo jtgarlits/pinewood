@@ -1,11 +1,7 @@
-@import "about.css";
-@import "body.css";
-@import "contact.css";
-@import "footer.css";
 @import "header.css";
 @import "navbar.css";
-@import "projects.css";
 @import "variables.css";
+@import "stats.css";
  
 html,
 body {
@@ -16,5 +12,11 @@ body {
 
     display: flex;
     flex-direction: column;
+
+}
+
+.stats {
+
+  background-color: black;
 
 }
