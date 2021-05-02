@@ -13,8 +13,8 @@
 
 #define FIREBASE_HOST "trine-pinewood-default-rtdb.firebaseio.com"
 #define FIREBASE_AUTH "0mWqlgBmWM63F5jm058DDH9kiuh6nYqdPl7W8A8D"
-#define WIFI_SSID "RPI"
-#define WIFI_PASSWORD "Th7nd3rL@b"
+#define WIFI_SSID "YOUR WIFI SSID HERE" //Enter your SSID
+#define WIFI_PASSWORD "YOUR WIFI PASSWORD HERE" //Enter your Password
 
 //Variables
 FirebaseData firebaseData;
